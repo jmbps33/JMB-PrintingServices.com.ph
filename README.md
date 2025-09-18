@@ -1,19 +1,35 @@
 # JMB Printing Services Website
 
-This project contains the website for **JMB Printing Services - High Quality Prints**.
+This project is a static website for **JMB Printing Services**,
+showcasing high-quality printing solutions for businesses and
+individuals.
 
-## Files
+## 📂 Project Structure
 
-- `JMBPS23.htm` — Main HTML file containing the website structure.
-- `style.css` — Extracted CSS styles from the HTML file.
-- `script.js` — Extracted JavaScript from the HTML file.
-- `README.md` — This documentation.
+-   `JMBPS23.htm` --- Main HTML file for the site
+-   Assets (images, icons, etc.) are embedded or linked inside the HTML
+    file.
 
-## Usage
+## 🚀 Features
 
-1. Open `JMBPS23.htm` in a web browser to view the website.
-2. If you want the HTML to use external files, link `style.css` in the `<head>` and `script.js` before the closing `</body>` tag.
+-   Responsive design (mobile-friendly via viewport meta tags).
+-   Branding and logo integration.
+-   Service highlights (printing, digital solutions, shop information).
+-   SEO-ready metadata.
 
-## Notes
+## 🛠️ How to Use
 
-The HTML is kept as originally provided. No modifications were made to reference the external CSS or JS files.
+1.  Open `JMBPS23.htm` in a web browser to view the site.
+2.  Deploy it on a web server (e.g., Apache, Nginx, or GitHub Pages) for
+    public access.
+
+## 📌 Requirements
+
+-   Modern web browser (Chrome, Firefox, Edge, Safari).
+-   (Optional) Web server if hosting online.
+
+## 🔮 Future Improvements
+
+-   Extract inline styles/scripts into separate CSS/JS files.
+-   Optimize images for faster loading.
+-   Add contact forms and interactive features.
